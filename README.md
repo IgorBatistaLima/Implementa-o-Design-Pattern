@@ -18,7 +18,10 @@ Isso torna o GerenciadorContatos mais fácil de usar e desacopla o restante do c
 
 # Como usar
 1 - Baixe o projeto 
+
 2 - Abra no caminho no seu terminal
+
 3 - Digite *npm install*
+
 4 - E depois *node interface.js*
 

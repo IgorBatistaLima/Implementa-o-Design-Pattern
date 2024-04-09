@@ -8,10 +8,17 @@ Você foi contratado para desenvolver um sistema de gerenciamento de contatos em
 
 # Padroes Utilizados
 
-# Strategy 
+### Strategy 
 As classes BuscaStrategy, BuscaSimplesStrategy e BuscaAvancadaStrategy implementam o padrão Strategy.
 Isso permite que a lógica de busca seja alterada em tempo de execução. 
 
-# Facade
+### Facade
 A classe Facade fornece uma interface simplificada para o GerenciadorContatos.
 Isso torna o GerenciadorContatos mais fácil de usar e desacopla o restante do código das classes internas.
+
+# Como usar
+1 - Baixe o projeto 
+2 - Abra no caminho no seu terminal
+3 - Digite *npm install*
+4 - E depois *node interface.js*
+
